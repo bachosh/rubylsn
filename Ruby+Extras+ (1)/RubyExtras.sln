@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{325B8569-0C7C-4A6A-8AF8-89C3B6BC9E74}") = "RubyExtras", "RubyExtras\RubyExtras.stproj", "{5C72EAE9-CBB6-483E-B175-7E937BFBA755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C72EAE9-CBB6-483E-B175-7E937BFBA755}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{5C72EAE9-CBB6-483E-B175-7E937BFBA755}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{5C72EAE9-CBB6-483E-B175-7E937BFBA755}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{5C72EAE9-CBB6-483E-B175-7E937BFBA755}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
